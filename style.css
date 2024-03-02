@@ -77,11 +77,5 @@ body {
     text-decoration: underline;
   }
   
-  @media (max-width: 768px) {
-    .form-container {
-      max-width: 100%;
-      margin-right: 0;
-      margin-bottom: 20px;
-    }
-  }
+
   
